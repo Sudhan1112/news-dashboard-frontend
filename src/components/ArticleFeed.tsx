@@ -36,7 +36,7 @@ export default function ArticleFeed({ searchQuery = '', category = 'Latest News'
       try {
         setLoading(true);
         // Fetch from Google Blogger API v3
-        const apiKey = 'AIzaSyC0qfxW9RMcP8ou0zeUh9bGSSkA7wkKox0';
+        const apiKey = import.meta.env.VITE_GOOGLE_API_KEY;
         // Using a sample blog ID - you can customize this
         const blogId = '6308117797418690963'; // Example blog ID
 
