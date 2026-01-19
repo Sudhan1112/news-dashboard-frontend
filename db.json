@@ -130,6 +130,17 @@
       "coverImage": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
       "date": "2026-01-19T11:58:39.991Z",
       "id": 11
+    },
+    {
+      "title": "Test Blog by AI",
+      "category": [
+        "TECH"
+      ],
+      "description": "Testing creation",
+      "content": "This is a test content. This is a test content that should be long enough to pass the validation of fifty characters.",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "date": "2026-01-19T18:02:45.929Z",
+      "id": 12
     }
   ]
 }
