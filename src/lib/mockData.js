@@ -1,0 +1,144 @@
+export const mockBlogs = [
+  {
+    "id": 1,
+    "title": "Future of Fintech",
+    "category": [
+      "FINANCE",
+      "TECH"
+    ],
+    "description": "Exploring how AI and blockchain are reshaping financial services",
+    "date": "2026-01-11T09:12:45.120Z",
+    "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+    "content": "The financial technology landscape is undergoing a revolutionary transformation. Artificial Intelligence and blockchain technology are at the forefront of this change, creating new possibilities for how we manage, transfer, and think about money.\n\nAI-powered algorithms are now capable of analyzing vast amounts of financial data in real-time, providing insights that were previously impossible to obtain. From fraud detection to personalized investment advice, AI is making financial services more secure and accessible.\n\nBlockchain technology, on the other hand, is revolutionizing the concept of trust in financial transactions. By creating immutable, transparent ledgers, blockchain is reducing the need for intermediaries and making transactions faster and more cost-effective.\n\nThe convergence of these technologies is creating exciting new opportunities in areas like decentralized finance (DeFi), smart contracts, and digital currencies. As we move forward, we can expect to see even more innovative applications that will fundamentally change how we interact with financial systems."
+  },
+  {
+    "id": 2,
+    "title": "The Rise of Sustainable Technology",
+    "category": [
+      "TECH",
+      "ENVIRONMENT"
+    ],
+    "description": "How green technology is transforming industries and combating climate change",
+    "date": "2026-01-15T14:30:22.450Z",
+    "coverImage": "https://images.pexels.com/photos/414837/pexels-photo-414837.jpeg",
+    "content": "Sustainable technology is no longer just a buzzword—it's becoming a necessity. As climate change accelerates, industries worldwide are turning to green technology solutions to reduce their environmental impact.\n\nRenewable energy sources like solar and wind power are becoming more efficient and cost-effective. Battery technology is advancing rapidly, making electric vehicles more practical for everyday use. Smart grids are optimizing energy distribution, reducing waste and improving reliability.\n\nBeyond energy, sustainable technology is transforming manufacturing, agriculture, and construction. From biodegradable materials to precision farming techniques, innovation is helping us build a more sustainable future.\n\nThe tech industry itself is also becoming more environmentally conscious, with major companies committing to carbon neutrality and investing in circular economy principles. This shift represents not just an environmental imperative, but also a significant economic opportunity."
+  },
+  {
+    "id": 3,
+    "title": "Remote Work Revolution",
+    "category": [
+      "BUSINESS",
+      "TECH"
+    ],
+    "description": "The lasting impact of remote work on business culture and productivity",
+    "date": "2026-01-18T10:45:33.890Z",
+    "coverImage": "https://images.pexels.com/photos/4226140/pexels-photo-4226140.jpeg",
+    "content": "The shift to remote work, accelerated by global events, has fundamentally changed how we think about the workplace. What started as a temporary solution has evolved into a permanent transformation of business culture.\n\nCompanies are discovering that remote work can actually increase productivity when implemented correctly. Employees report better work-life balance, reduced commute stress, and increased flexibility. Meanwhile, businesses benefit from access to global talent pools and reduced overhead costs.\n\nHowever, this revolution comes with challenges. Maintaining company culture, ensuring effective communication, and preventing burnout require new approaches and tools. Video conferencing, project management software, and virtual collaboration platforms have become essential infrastructure.\n\nAs we move forward, hybrid models are emerging as the preferred solution for many organizations. This balanced approach combines the benefits of remote work with the advantages of in-person collaboration, creating a more flexible and resilient work environment."
+  },
+  {
+    "id": 4,
+    "title": "Artificial Intelligence in Healthcare",
+    "category": [
+      "TECH",
+      "HEALTH"
+    ],
+    "description": "Revolutionary applications of AI in medical diagnosis and treatment",
+    "date": "2026-01-16T08:20:15.670Z",
+    "coverImage": "https://images.pexels.com/photos/8438918/pexels-photo-8438918.jpeg",
+    "content": "Artificial Intelligence is revolutionizing healthcare in ways that seemed like science fiction just a decade ago. From early disease detection to personalized treatment plans, AI is improving patient outcomes and making healthcare more efficient.\n\nMachine learning algorithms can now analyze medical images with accuracy that rivals or exceeds human experts. This capability is particularly valuable in detecting cancers, identifying abnormalities in X-rays and MRIs, and predicting disease progression.\n\nAI-powered diagnostic tools are helping doctors make more informed decisions by analyzing patient data, medical histories, and the latest research. Virtual health assistants are providing 24/7 support to patients, answering questions and monitoring chronic conditions.\n\nThe potential extends beyond diagnosis and treatment. AI is accelerating drug discovery, optimizing hospital operations, and even predicting disease outbreaks. As the technology continues to evolve, we can expect even more transformative applications in healthcare."
+  },
+  {
+    "id": 5,
+    "title": "The Metaverse and Virtual Reality",
+    "category": [
+      "TECH",
+      "ENTERTAINMENT"
+    ],
+    "description": "Exploring the future of virtual worlds and immersive experiences",
+    "date": "2026-01-12T16:55:40.230Z",
+    "coverImage": "https://images.pexels.com/photos/8728380/pexels-photo-8728380.jpeg",
+    "content": "The concept of the metaverse—a collective virtual shared space—is rapidly moving from science fiction to reality. Virtual and augmented reality technologies are creating immersive experiences that blur the line between physical and digital worlds.\n\nMajor tech companies are investing billions in metaverse development, creating platforms for social interaction, entertainment, education, and commerce. Virtual reality headsets are becoming more affordable and accessible, while the experiences they offer are becoming increasingly sophisticated.\n\nThe implications extend far beyond gaming and entertainment. Virtual meetings are becoming more engaging and productive. Virtual showrooms are changing how we shop. Educational institutions are creating immersive learning environments that make complex concepts easier to understand.\n\nHowever, the metaverse also raises important questions about privacy, digital identity, and the balance between virtual and real-world experiences. As this technology evolves, society will need to navigate these challenges while embracing the opportunities."
+  },
+  {
+    "title": "Test Blog Post",
+    "category": [
+      "TECH",
+      "AI"
+    ],
+    "description": "This is a test blog post to verify the create functionality works correctly",
+    "content": "This is the full content of the test blog post. It demonstrates that the blog creation feature is working as expected. The content should be displayed properly in the blog detail view after creation.",
+    "coverImage": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg",
+    "date": "2026-01-19T11:19:52.977Z",
+    "id": 6
+  },
+  {
+    "title": "Professional Theme Test",
+    "category": [
+      "DESIGN",
+      "UI"
+    ],
+    "description": "Testing the new professional white and black theme with animated success notifications",
+    "content": "This blog post demonstrates the new professional theme. The interface now features a clean white background with black accents, providing excellent readability and a modern, professional appearance.",
+    "coverImage": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg",
+    "date": "2026-01-19T11:33:35.005Z",
+    "id": 7
+  },
+  {
+    "title": "Toast Animation Test",
+    "category": [
+      "TEST"
+    ],
+    "description": "Testing toast notification animation.",
+    "content": "This is a very long piece of content that is guaranteed to be over fifty characters so that the form validation passes successfully.",
+    "coverImage": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg",
+    "date": "2026-01-19T11:39:53.077Z",
+    "id": 8
+  },
+  {
+    "title": "Dynamic Toast Animation Test",
+    "category": [
+      "ANIMATION",
+      "UI"
+    ],
+    "description": "Testing the enhanced dynamic toast notification with smooth animations",
+    "content": "This blog post demonstrates the new dynamic toast notification system with smooth slide-in animations, bounce effects, and floating animations that make the UI feel more alive and responsive to user actions.",
+    "coverImage": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
+    "date": "2026-01-19T11:47:14.597Z",
+    "id": 9
+  },
+  {
+    "title": "Dynamic Toast Animation Test 3",
+    "category": [
+      "ANIMATION",
+      "UI"
+    ],
+    "description": "Testing smooth toast animations with slide-in and bounce effects.",
+    "content": "This blog post demonstrates the new dynamic toast notification system with smooth slide-in animations, bounce effects, and floating animations that make the UI feel more alive and responsive to user actions.",
+    "coverImage": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
+    "date": "2026-01-19T11:51:41.904Z",
+    "id": 10
+  },
+  {
+    "title": "Enhanced Animation Demo",
+    "category": [
+      "ANIMATION",
+      "UX"
+    ],
+    "description": "Demonstrating the improved toast notification system",
+    "content": "This blog demonstrates the enhanced toast notification system with smooth slide-in animations from the right, bouncing checkmark icon, and a beautiful gradient background that provides excellent visual feedback to users.",
+    "coverImage": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
+    "date": "2026-01-19T11:58:39.991Z",
+    "id": 11
+  },
+  {
+    "title": "Test Blog by AI",
+    "category": [
+      "TECH"
+    ],
+    "description": "Testing creation",
+    "content": "This is a test content. This is a test content that should be long enough to pass the validation of fifty characters.",
+    "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+    "date": "2026-01-19T18:02:45.929Z",
+    "id": 12
+  }
+];
